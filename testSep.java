@@ -6,7 +6,7 @@ public class testSep {
 		
 		int i = 5;
 		
-		int a = 10;
+		int a = 8;
 		
 		System.out.println(a+i);
 		
